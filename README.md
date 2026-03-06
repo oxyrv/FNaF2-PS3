@@ -32,11 +32,20 @@ To download, do the following:
 To build, you need some requirements:
 - A devkit console
 - The official SDK
-- GameMaker Studio 1 (NO OTHER, THEY DOESN'T SUPPORT PS3!)
+- GameMaker Studio 1 (other versions do NOT support PS3!)
 
 (Note: The PlayStation 3 SDK is proprietary software owned by Sony.
 
 You must legally own it to build this project.)
+
+## ❤ HUGE THANKS
+
+People/Stuffs that i MUST CREDIT
+
+- Scott Cawthon: The original creator of Five Nights at Freddy's
+- [r/technicalFNaF](https://www.reddit.com/r/technicalFNaF): Helped me a lot (especially for the assets dump and AI research)
+- ChatGPT: I know i might sound like a skid, but it was NEEDED as i am a huge fuming sh*t when it comes to gml 😅
+- [These YT tuts](https://www.youtube.com/playlist?list=PLju0Pstb3lUmcII3-HVsrdwxC9-ggsWjC): Well, you know!
 
 ## ❗ Project Status
 
