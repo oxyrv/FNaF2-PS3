@@ -1,7 +1,7 @@
 # FNaF2-PS3
 A Remake of Five Nights at Freddy's 2 for the Playstation™ 3
 
-## Screenshots:
+## 📸 Screenshots:
 <img width="1022" height="763" alt="Main Menu" src="https://github.com/user-attachments/assets/3b6be64f-cb14-4e68-b9d0-3f4b4979f984" />
 
 ↑ *Main Menu*
@@ -10,7 +10,7 @@ A Remake of Five Nights at Freddy's 2 for the Playstation™ 3
 
 ↑ *Some sort of gameplay(?)*
 
-## TODO
+## 📚 TODO
 - [ ] Animatronics/AIs
 - [x] The Menu (~60%)
 - [x] Mask
@@ -19,7 +19,7 @@ A Remake of Five Nights at Freddy's 2 for the Playstation™ 3
 
 ...
 
-## Download
+## 📥 Download
 
 To download, do the following:
 
@@ -27,7 +27,7 @@ To download, do the following:
 2. Download the latest version (The .pkg file)
 3. And then install the pkg on your console!
 
-## Building
+## ⚙ Building
 
 To build, you need some requirements:
 - A devkit console
