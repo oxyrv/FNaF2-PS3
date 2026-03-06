@@ -32,6 +32,7 @@ To download, do the following:
 To build, you need some requirements:
 - A devkit console
 - The official SDK
+- GameMaker Studio 1 (NO OTHER, THEY DOESN'T SUPPORT PS3!)
 
 (Note: The PlayStation 3 SDK is proprietary software owned by Sony.
 
@@ -54,6 +55,6 @@ Port by Oxyru
 
 Five Nights at Freddy's and all related assets are property of Scott Cawthon.
 
-This project is a **non-commercial fan project** and is not affiliated with or endorsed by Scott Cawthon.
+This project is a **non-commercial fan project** and is not affiliated with nor endorsed by Scott Cawthon.
 
 I DO NOT CLAIM OWNERSHIP OF Five Nights at Freddy's OR ANY OF ITS OFFICIAL CONTENT.
